@@ -1,0 +1,24 @@
+.header-cus {
+  background-color: red;
+  max-height: 75px;
+  height: 75px; }
+
+header .container .row .nav-item-logo {
+  color: #0065ED;
+  font-size: 24px;
+  display: block;
+  text-decoration: none;
+  margin-top: 6%; }
+
+.nav-item {
+  display: block;
+  text-decoration: none;
+  margin-top: 10%;
+  padding: 0 35px;
+  color: black; }
+
+.nav-icon {
+  display: block;
+  text-decoration: none;
+  margin-top: 10%;
+  color: black; }

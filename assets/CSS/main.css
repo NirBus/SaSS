@@ -1,5 +1,5 @@
 .header-cus {
-  background-color: red;
+  background-color: white;
   max-height: 75px;
   height: 75px; }
 
@@ -20,5 +20,7 @@ header .container .row .nav-item-logo {
 .nav-icon {
   display: block;
   text-decoration: none;
-  margin-top: 10%;
+  margin-top: 10%; }
+
+.header-cus .container .row .col-8 .row a:link {
   color: black; }
